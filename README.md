@@ -6,7 +6,7 @@ This is a project that I worked on with a remote team of developers at [The Coll
 
 The project itself is a "smart" shopping list app. You create a new shopping list, and for each item you add to the list, you'll select how soon you're likely to buy it (soon, kinda soon, not soon). The more frequently you buy an item, it'll move up the list according to how likely you're likely to buy it again.
 
-See the project [here](https://lettuce-know.web.app/)!
+<!-- See the project [here](https://lettuce-know.web.app/)! -->
 
 ## Screenshots
 
